@@ -57,3 +57,11 @@ Astra default breadcrumb is based on Breadcrumb Trail by Justin Tadlock. (https:
 Breadcrumb Trail is distributed under the terms of the GNU GPL v2 or later.
 
 /* Note: The CSS files are loaded from assets/css/ folder. */
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&family=Raleway:wght@100;200&family=Roboto+Slab:wght@100;300&display=swap');
+
+h1.site-title {
+    font-family: 'Raleway';
+    text-transform: uppercase;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;    
+}

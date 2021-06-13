@@ -25,9 +25,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <?php wp_head(); ?>
 <?php astra_head_bottom(); ?>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Nixie+One&family=Raleway:wght@100;200&family=Roboto+Slab:wght@100;300&display=swap');
-</style>
 </head>
 
 <body <?php astra_schema_body(); ?> <?php body_class(); ?>>
